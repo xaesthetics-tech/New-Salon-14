@@ -33,7 +33,7 @@ const SUPABASE_KEY =
   "sb_publishable_PNtKfSQtEnEMtYf9kQ8CdQ_YRFhT2kN";
 
 const SALON_CODE =
-  "salon-01";
+  "salon-14";
 
 
 let db = null;
